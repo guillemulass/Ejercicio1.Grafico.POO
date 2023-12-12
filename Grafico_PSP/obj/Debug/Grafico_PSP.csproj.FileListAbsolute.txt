@@ -1,0 +1,7 @@
+C:\Users\guill\RiderProjects\Grafico_PSP\Grafico_PSP\bin\Debug\Grafico_PSP.exe
+C:\Users\guill\RiderProjects\Grafico_PSP\Grafico_PSP\bin\Debug\Grafico_PSP.pdb
+C:\Users\guill\RiderProjects\Grafico_PSP\Grafico_PSP\obj\Debug\Grafico_PSP.csproj.AssemblyReference.cache
+C:\Users\guill\RiderProjects\Grafico_PSP\Grafico_PSP\obj\Debug\Grafico_PSP.csproj.SuggestedBindingRedirects.cache
+C:\Users\guill\RiderProjects\Grafico_PSP\Grafico_PSP\obj\Debug\Grafico_PSP.csproj.CoreCompileInputs.cache
+C:\Users\guill\RiderProjects\Grafico_PSP\Grafico_PSP\obj\Debug\Grafico_PSP.exe
+C:\Users\guill\RiderProjects\Grafico_PSP\Grafico_PSP\obj\Debug\Grafico_PSP.pdb
